@@ -16,4 +16,4 @@ type "npm start"
 to run
 
 
-Deployed Website: appointment-scheduler-rust.vercel.app
+Deployed Website: https://appointment-scheduler-rust.vercel.app/
